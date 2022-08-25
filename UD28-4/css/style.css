@@ -1,0 +1,38 @@
+body {
+    background-color: #FFFEE7;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    background-color: #FFE43A;
+    padding-left: 10px;
+    font-size: 28px;
+    color: #19154F;
+}
+
+.cuerpo{
+    padding-left: 10px;
+}
+
+.cuerpo > h2{
+    color: #59AEFF;
+    font-size: 32px;
+    font-style: italic;
+}
+
+.cuerpo > p > i{
+    color: gray;
+    font-style: italic;
+}
+
+.listas > p{
+    color: #19154F;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+}
